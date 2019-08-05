@@ -46,7 +46,7 @@ function spamla(){
 		}
 		
 		else{
-			message.reply("krd? ya saniye k?sm? 5 saniyeden az ya da saniye k?sm?na ba?ka bi?iy yaz?yon, senle mi u?ra?çam?");
+			message.reply("krd? ya saniye k?sm? 5 saniyeden az ya da saniye k?sm?na ba?ka bi?iy yaz?yon, senle mi u?ra?Ã§am?");
 		}
 		}
 		catch(err){
@@ -58,4 +58,4 @@ function spamla(){
 
 
 });
-client.login("NjA3OTc0Mjk2MDYwNjkwNDMz.XUhagA.cGAMmaeUNctPGRzdbyCDSSev6u4");
+client.login("NjA3OTc0Mjk2MDYwNjkwNDMz.XUhsew.pBqalhJRuo4XIGnvOQhZ3qdH3og");
